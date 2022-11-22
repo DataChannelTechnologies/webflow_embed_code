@@ -74,7 +74,7 @@
  #_form_19_ ._inline-style { margin:20px 0 0 !important; }
  }
  #_form_19_ { position:relative; text-align:left; margin:25px auto 0; padding:20px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:transparent !important; border:0px solid #b0b0b0 !important; max-width:500px; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#303030 !important; }
- #_form_19_._inline-form,#_form_19_._inline-form ._form-content,#_form_19_._inline-form input,#_form_19_._inline-form ._submit { font-family:"Montserrat", sans-serif; }
+ #_form_19_._inline-form,#_form_19_._inline-form ._form-content,#_form_19_._inline-form input,#_form_19_._inline-form ._submit { font-family:inherit; }
  #_form_19_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; }
  #_form_19_:before,#_form_19_:after { content:" "; display:table; }
  #_form_19_:after { clear:both; }
